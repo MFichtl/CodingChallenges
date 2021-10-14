@@ -2,12 +2,12 @@
   "name": "challenges",
   "version": "1.0.0",
   "description": "",
-  "main": "OddOccArray.js",
+  "main": "UniqueNumbersArray.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "MFichtl",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.2.5"
