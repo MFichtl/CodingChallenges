@@ -1,3 +1,3 @@
 # Coding Challenges
 
-Solutions and Testing for some coding challenges I worked on.
+Solutions and Testing for some Javascript coding challenges I worked on.
