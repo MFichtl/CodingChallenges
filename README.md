@@ -1,3 +1,3 @@
-# CodingChallenges
+# Coding Challenges
 
 Solutions and Testing for some coding challenges I worked on.
